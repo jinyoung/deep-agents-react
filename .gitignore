@@ -13,6 +13,7 @@ frontend/dist/
 uploads/
 input/
 output/
+sample_pdfs/
 
 # Environment
 .env
